@@ -11,7 +11,7 @@ $ pkg install git -y
 $ pkg install python -y
 $ pip install requests
 $ pip install json
-$ git clone https://github.com/DARK-02/Spam_Scw
+$ git clone https://github.com/BAY-406/spamv1
 ```
 ## Eksekusi
 ```python3
