@@ -3,6 +3,8 @@
 
 > spamv1 merupakan script spam sms, call, whatsapp dengan limit 70dtk per requests
 
+> scrip Masi Beta, jika ada yang error tunggu aja update Tan nya  :v
+
 ## Instalasi
 ```
 $ cd
