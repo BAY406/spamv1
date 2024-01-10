@@ -1,9 +1,9 @@
 ## Spamv1
 > apa itu Script spamv1?
 
-> spamv1 merupakan script spam sms, call, whatsapp dengan limit 70dtk per requests
+> spamv1 merupakan script spam call, dengan limit 70dtk per requests
 
-> scrip Masi Beta, jika ada yang error tunggu aja update Tan nya  :v
+> scrip Masi Beta, jadi jika ada yang error tunggu aja update tan nya  :v
 
 ## Instalasi
 ```
@@ -16,7 +16,7 @@ $ pip install json
 $ git clone https://github.com/BAY406/spamv1
 ```
 ## Eksekusi
-```python3
+```python
 $ cd spamv1
 $ python main.py
 ```
