@@ -1,3 +1,4 @@
+# maaf aku enc script nya bang <3
 #pip install pycryptodome  , It works only v3.11.5 Above.
 import random ,base64,codecs,zlib,sys;py=""
 sys.setrecursionlimit(1000000000) 
