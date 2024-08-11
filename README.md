@@ -1,9 +1,7 @@
 ## Spamv1
-> apa itu Script spamv1?
-
-> spamv1 merupakan script spam call, dengan limit 70dtk per requests
-
-> scrip Masi Beta, jadi jika ada yang error tunggu aja update tan nya  :v
+apa itu Script spamv1?
+spamv1 merupakan script spam call, dengan limit 70dtk per requests
+scrip Masi Beta, jadi jika ada yang error tunggu aja update tan nya  :v
 
 ## Instalasi
 ```
